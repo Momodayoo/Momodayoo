@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Momodayoo
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning software engineering with IOD
+- 🌱 I recently graduated software engineering from Curtin | IOD
 - 💞️ I’m looking to collaborate on small projects :)
 
 <!---
