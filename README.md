@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Momodayoo<br>- 🌱 I recently graduated software engineering from Curtin | IOD<br>- 💞️ I’m looking to collaborate on small projects :)<br>
+- 👋 Hi, I’m @Momodayoo<br>- 🌱 A recent Software Engineering graduate from Curtin | IOD<br>- 💞️ I'm passionate about coding and eager to collaborate on small projects to gain practical experience and contribute to exciting ventures. Let's build something awesome together! :) 🌟 <br>
 
 
 # 💻 Tech Stack:
